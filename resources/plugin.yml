@@ -1,0 +1,10 @@
+name: "Wear_Anything"
+version: '1.0'
+main: io.github.sgtsegment.wear_anything.Wear_anything
+api-version: '1.21'
+authors: [ SgtSegment ]
+website: https://github.com/SgtSegment
+commands:
+  wear:
+    description: "Equips anything onto your head."
+    usage: "/wear"
